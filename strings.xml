@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Jogo de Adivinhação</string>
+    <string name="titulo_jogo">Jogo de Adivinhação</string>
+    <string name="label_nome_jogador">Nome do jogador</string>
+    <string name="label_adivinhar_ate">Adivinhar de 1 até:</string>
+    <string name="btn_jogar">JOGAR</string>
+    <string name="label_seu_palpite">Seu palpite</string>
+    <string name="btn_chutar">CHUTAR</string>
+    <string name="btn_jogar_de_novo">JOGAR DE NOVO</string>
+    <string name="msg_boas_vindas">%1$s, pensei num número de 1 a %2$d!</string>
+    <string name="msg_tentativas">Tentativas: %1$d</string>
+    <string name="msg_acertou_singular">%1$s acertou em %2$d tentativa!</string>
+    <string name="msg_acertou_plural">%1$s acertou em %2$d tentativas!</string>
+    <string name="msg_dica">%1$s %2$s</string>
+    <string name="quente">Quente!</string>
+    <string name="frio">Frio!</string>
+    <string name="numero_maior">O número é MAIOR.</string>
+    <string name="numero_menor">O número é MENOR.</string>
+</resources>
